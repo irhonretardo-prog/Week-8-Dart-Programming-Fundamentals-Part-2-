@@ -1,0 +1,12 @@
+=== COFFEE RECEIPT ===
+Customer Name: Irhon Clark A. Retardo
+Total Price: $7.42
+Whole Dollars Spent: $7
+Loyalty Stamp Progress: 0 cup(s) towards next reward
+Qualifies for Free Cookie? false
+Eligible for Member Perk? false
+
+Total Item Amount:
+  Cup #1: $2.75
+  Cup #2: $2.75
+  Cup #3: $2.75
